@@ -13,7 +13,7 @@ pipeline {
             }
             steps {
                 echo 'Cloning...'
-                git 'https://github.com/theitern/ClassDemoProject.git'
+                git 'https://github.com/abayomi2/ClassDemoProject.git'
             }
         }
         
